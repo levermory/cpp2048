@@ -1,6 +1,8 @@
 #ifndef MATRIX
 #define MATRIX
 
+#include <iostream>
+
 class Matrix
 {
 private:
